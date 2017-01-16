@@ -1,7 +1,7 @@
 /** APP LAUNCHER BUTTON **/
-.launcher { width: 30px; height: 30px; background-image: url(http://a7la.honor.es/dev1/images/apps.png); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
-.actioncenter  {width: 30px; height: 30px; background-image: url(http://a7la.honor.es/dev1/images/actions.png?v=7); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
-.settings { width: 30px; height: 30px; background-image: url(http://a7la.honor.es/dev1/images/account.png); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
+.launcher { width: 30px; height: 30px; background-image: url(https://raw.githubusercontent.com/adel759/style-dev1/master/images/apps.png); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
+.actioncenter  {width: 30px; height: 30px; background-image: url(https://raw.githubusercontent.com/adel759/style-dev1/master/images/actions.png?v=7); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
+.settings { width: 30px; height: 30px; background-image: url(https://raw.githubusercontent.com/adel759/style-dev1/master/images/account.png); background-position:center center; background-repeat: no-repeat; cursor: pointer; transition: 0.2s }
 .appmenu { background-color: rgba(255,255,255,0.98); padding: 7px; width: 350px; text-align:center; border-radius: 5px; position:fixed; top: 55px; left: 5px; box-shadow:rgba(0,0,0,0.5) 0px 0px 5px;   z-index: 2}
 .appmenu headline { font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif ; font-size: 13px; padding: 0px 5px 5px 5px ;}
 .appmenu ui { list-style: none }

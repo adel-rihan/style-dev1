@@ -1,0 +1,39 @@
+@media screen and (max-width: 1270px) {
+.userinfodev {
+        display: none !important;
+    }
+}
+@media screen and (min-width: 1270px) {
+#min1280menu {
+        display: none !important;
+    }
+}
+
+.userinfodev { background-color: #E1E1E1; border: 2px #B2B2B2 solid ; position: relative ; }
+.opt { background-color: #D8D8D8 ; padding: 7px; margin-bottom: 2px; cursor: pointer ; color: #666666; }
+.opt:hover { background-color: #C9C9C9;}
+#customizepage { background-image: url('profile/customize.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#subthreads { background-image: url('profile/threads.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#msgsfolder { background-image: url('profile/msgs.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#myinfo { background-image: url('profile/info.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#myoptions { background-image: url('profile/options.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#home { background-image: url('profile/home.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+#logout { background-image: url('profile/logout.png'); background-repeat: no-repeat ; background-position: 14px center ; }
+.info-windows { color: #000000; padding: 10px; padding-right: 50px; background-image: url('profile/userinfo/windows.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-linux { color: #000000;  padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/linux.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-mac { color: #000000;  padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/mac.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-facebook { color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/facebook.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-facebook:hover { background-color: #fff; color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/facebook.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-twitter { color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/twitter.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-twitter:hover { background-color: #fff; color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/twitter.png'); background-position: rigth 15px center ; background-repeat: no-repeat ; }
+.info-instagram { color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/instagram.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-instagram:hover { background-color: #fff; color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/instagram.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-youtube { color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/youtube.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-youtube:hover { background-color: #fff; color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/youtube.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-tumblr { color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/tumblr.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-tumblr:hover { background-color: #fff; color: #000000; padding: 10px; padding-right: 50px;  background-image: url('profile/userinfo/tumblr.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+.info-coding { color: #000000; padding: 10px; padding-right: 50px; background-image: url('profile/userinfo/coding.png'); background-position: right 15px center ; background-repeat: no-repeat ; }
+
+
+
+
